@@ -118,7 +118,7 @@ class _MyHomePageState extends State<MyHomePage> {
             icon: const Icon(Icons.code),
             label: const Text('Github'),
             onPressed: () {
-              launchUrl(Uri.parse('https://github.com/ChrisMarxDev'));
+              launchUrl(Uri.parse('https://github.com/ChrisMarxDev/flutter-matrix-transform'));
             },
           ),
           TextButton.icon(
